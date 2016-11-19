@@ -1,5 +1,5 @@
 # not-your-kitchen-sieve
-A graphical Sieve of Eratosthenes. One of the first programs I wrote in my first year of Computer Science.
+A graphical representation of how the Sieve of Eratosthenes works. One of the first programs I wrote in my first year of Computer Science.
 
 ![Sieve](assets/Sieve.gif)
 
